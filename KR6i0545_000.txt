@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 占察善惡業報經
+#+DATE: 2015-08-30 20:22:21.432187
+#+PROPERTY: JUAN 0
