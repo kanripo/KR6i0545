@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:22:22.843269
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:56
 #+TITLE: 占察善惡業報經
 #+PROPERTY: CBETA_ID T17n0839
 #+PROPERTY: ID KR6i0545
