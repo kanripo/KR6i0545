@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:22:21.119268
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:56
 #+TITLE: 占察善惡業報經
 #+PROPERTY: CBETA_ID T17n0839
 #+PROPERTY: ID KR6i0545
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 839
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0545_T_000-0901c>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0545_T_001-0901c> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.839¶
-
- 《占察善惡業報經》卷上(出六根聚經中)¶
+No. 839¶
+《占察善惡業報經》卷上(出六根聚經中)¶
 ¶
 天竺三藏菩提燈譯¶
 
